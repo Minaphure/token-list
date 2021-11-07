@@ -22375,4 +22375,19 @@
   "extensions": {
     "twitter":"https://twitter.com/SOLPANDS"
   }
-}
+},
+  "chainId": 101,
+  "address": "8suXL84MLZLqts5DPdYcWjqSfCLLqZVyqMM4hAhcvKDB",
+  "symbol": "MFER",
+  "name": "Monkey Fuckers",
+  "decimals": 9,
+  "logoURI": "https://ibb.co/yhYvVLq",
+  "tags": [
+    "game-token"
+    "meme-token"
+    "nft-game"
+  ],
+  "extensions": {
+    "twitter":"https://twitter.com/BitcoinIsKing_"
+    "website":"https://imsonft.art"
+    "discord":"https://https://discord.gg/KYaKnJYZ"
